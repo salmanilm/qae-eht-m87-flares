@@ -7,7 +7,7 @@ Salman Ali
 
 
 ## License
-[MIT License](LICENSE) © 2024 Salman Ali
+[MIT License](LICENSE) © 2025 Salman Ali
 
 ## Contact
 QAE-EHT-M87-Flares  
@@ -16,4 +16,5 @@ s.alikvoth@gmail.com
 QSYS 2024 Alumni | Gr.12 Student
 
 ## Citation
+
 *Will add after ArXiv submission*
