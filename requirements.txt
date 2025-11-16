@@ -1,0 +1,2 @@
+pip install numpy scipy matplotlib astropy scikit-learn torch torchvision pennylane jupyter
+pip freeze > requirements.txt
