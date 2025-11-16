@@ -1,2 +1,3 @@
+# I did most if not all of my coding in the vscode enviroment as a heads-up
 pip install numpy scipy matplotlib astropy scikit-learn torch torchvision pennylane jupyter
 pip freeze > requirements.txt
