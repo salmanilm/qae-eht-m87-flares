@@ -8,8 +8,8 @@ Can a 4-qubit quantum autoencoder capture non-local spatial correlations in blac
 
 **Status/Changelog**: 
 Week 1 - Data synthesis <br />
-<pre>  downloaded FITS file of M 87* from https://cdsarc.cds.unistra.fr/viz-bin/cat/J/A+A/681/A79#/browse <br />
- <pre><pre>  should be EHT observations taken on 2018 April 21 at band 3
+ downloaded FITS file of M 87* from https://cdsarc.cds.unistra.fr/viz-bin/cat/J/A+A/681/A79#/browse <br />
+  should be EHT observations taken on 2018 April 21 at band 3
 
 
 ## License
