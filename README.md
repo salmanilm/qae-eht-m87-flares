@@ -4,7 +4,7 @@ Quantum Autoencoder for Event Horizon Telescope M87* Flare Detection
 **Description**: Compares quantum vs classical autoencoder anomaly detection on black hole accretion disk shadows using EHT M87* data.  
 
 ## Research Question
-**Can a Quantum Autoencoder Detect Flares in Blackhole Images More Accurately than a Classical Neural Network?**
+**Can a Quantum Autoencoder Detect Flares in Blackhole Images More Accurately than a Classical Neural Network? If so by how much? (will use ROC AUC metric)**
 
 ## Status/Changelog <br />
 Week 1 - Data synthesis <br />
