@@ -6,7 +6,7 @@ Quantum AutoEncoder for Event Horizon Telescope M87* Flare Detection
 ## Research Question
 Can a 4-qubit quantum autoencoder capture non-local spatial correlations in black hole shadow/ring images better than a classical CNN, achieving >0.90 ROC AUC for flare detection?
 
-**Status/Changelog**: 
+**Status/Changelog**: <br />
 Week 1 - Data synthesis <br />
  downloaded FITS file of M 87* from https://cdsarc.cds.unistra.fr/viz-bin/cat/J/A+A/681/A79#/browse <br />
   should be EHT observations taken on 2018 April 21 at band 3
