@@ -5,7 +5,7 @@ Salman Ali
 **Description**: Compares quantum vs classical autoencoder anomaly detection on black hole accretion disk shadows using EHT M87* data.  
 
 ## Research Question
-Can a 4-qubit quantum autoencoder capture non-local spatial correlations in black hole shadow movies better than a classical CNN, achieving >0.90 ROC AUC for flare detection?
+Can a 4-qubit quantum autoencoder capture non-local spatial correlations in black hole shadow/ring images better than a classical CNN, achieving >0.90 ROC AUC for flare detection?
 
 **Status/Changelog**: 
 Week 1 - Data synthesis
