@@ -1,7 +1,6 @@
 # QAE-EHT-M87-Flares
 Quantum AutoEncoder for Event Horizon Telescope M87* Flare Detection
 
-Salman Ali
 **Description**: Compares quantum vs classical autoencoder anomaly detection on black hole accretion disk shadows using EHT M87* data.  
 
 ## Research Question
