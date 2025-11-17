@@ -7,7 +7,10 @@ Salman Ali
 ## Research Question
 Can a 4-qubit quantum autoencoder capture non-local spatial correlations in black hole shadow movies better than a classical CNN, achieving >0.90 ROC AUC for flare detection?
 
-**Status**: Week 1 - Data synthesis in progress
+**Status/Changelog**: 
+Week 1 - Data synthesis
+  downloaded FITS file of M 87* from https://cdsarc.cds.unistra.fr/viz-bin/cat/J/A+A/681/A79#/browse 
+    should be EHT observations taken on 2018 April 21
 
 
 ## License
@@ -20,4 +23,7 @@ s.alikvoth@gmail.com
 QSYS 2024 Alumni | Gr.12 Student
 
 
-
+## Citations
+"This research has made use of the VizieR catalogue access tool, CDS,
+ Strasbourg, France (DOI : 10.26093/cds/vizier). The original description 
+ of the VizieR service was published in 2000, A&AS 143, 23"
