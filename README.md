@@ -1,15 +1,17 @@
 # QAE-EHT-M87-Flares
-Quantum AutoEncoder for Event Horizon Telescope M87* Flare Detection
+Quantum Autoencoder for Event Horizon Telescope M87* Flare Detection
 
 **Description**: Compares quantum vs classical autoencoder anomaly detection on black hole accretion disk shadows using EHT M87* data.  
 
 ## Research Question
-Can a 4-qubit quantum autoencoder capture non-local spatial correlations in black hole shadow/ring images better than a classical CNN, achieving >0.90 ROC AUC for flare detection?
+Can a quantum autoencoder detect flares in blackhole images more accurately than a classical neural network?
 
 **Status/Changelog**: <br />
 Week 1 - Data synthesis <br />
  downloaded FITS file of M 87* from https://cdsarc.cds.unistra.fr/viz-bin/cat/J/A+A/681/A79#/browse <br />
-  should be EHT observations taken on 2018 April 21 at band 3
+ should be EHT observations taken on 2018 April 21 at band 3
+ did an initial exploration of the data and made some graphs in initial_data_exploration.ipynb (in notebooks)
+ 
 
 
 ## License
