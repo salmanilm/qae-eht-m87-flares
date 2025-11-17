@@ -17,7 +17,6 @@ Week 1 - Data synthesis
 [MIT License](LICENSE) © 2025 Salman Ali
 
 ## Contact
-QAE-EHT-M87-Flares  
 Salman Ali
 s.alikvoth@gmail.com
 QSYS 2024 Alumni | Gr.12 Student
