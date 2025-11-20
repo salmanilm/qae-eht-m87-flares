@@ -27,3 +27,8 @@ QSYS 2024 Alumni | Gr.12 Student
 "This research has made use of the VizieR catalogue access tool, CDS,
  Strasbourg, France (DOI : 10.26093/cds/vizier). The original description 
  of the VizieR service was published in 2000, A&AS 143, 23"
+
+ "Andrew Chael, Hybrid GRMHD and force-free simulations of black hole accretion, 
+ Monthly Notices of the Royal Astronomical Society,
+ Volume 532, Issue 3, August 2024, Pages 3198–3221, 
+ https://doi.org/10.1093/mnras/stae1692"
