@@ -7,7 +7,7 @@
 **How well does a 4 Qubit Quantum Autoencoder Hold up to Traditional Ones? (will use ROC AUC metric)**
 
 ## Status/Changelog <br />
-Week 1-2 - Data synthesis <br />
+Week 1-3 - Data synthesis <br />
  downloaded FITS file of M 87* from https://cdsarc.cds.unistra.fr/viz-bin/cat/J/A+A/681/A79#/browse <br />
  should be EHT observations taken on 2018 April 21 at band 3 <br />
  did an initial exploration of the data and made some graphs using initial_data_exploration.ipynb (graphs are in the figures folder) <br />
