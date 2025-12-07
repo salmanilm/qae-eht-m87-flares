@@ -1,10 +1,10 @@
 # QAE-EHT-M87-Flares
-4 Qubit Quantum Autoencoder for Event Horizon Telescope M87* Flare Detection
+8 Qubit Quantum Autoencoder for Event Horizon Telescope M87* Flare Detection
 
 **Description**: Compares quantum vs classical autoencoder anomaly detection on black hole accretion disk shadows using EHT M87* data.  
 
 ## Research Question
-**How well does a 4 Qubit Quantum Autoencoder Hold up to Traditional Ones? (will use ROC AUC metric)**
+**Can a simple quantum program of 8 qubits spot flares from generated black hole M87 images as accurately as a regular AI, while using 5 times fewer adjustable settings?**
 
 ## Status/Changelog <br />
 Week 1-4 - Data synthesis <br />
