@@ -7,13 +7,13 @@
 **How well does a 4 Qubit Quantum Autoencoder Hold up to Traditional Ones? (will use ROC AUC metric)**
 
 ## Status/Changelog <br />
-Week 1-3 - Data synthesis <br />
+Week 1-4 - Data synthesis <br />
  downloaded FITS file of M 87* from https://cdsarc.cds.unistra.fr/viz-bin/cat/J/A+A/681/A79#/browse <br />
  should be EHT observations taken on 2018 April 21 at band 3 <br />
- did an initial exploration of the data and made some graphs using initial_data_exploration.ipynb (graphs are in the figures folder) <br />
+ did an initial exploration of the data and made some graphs using initial_data_exploration.ipynb, the graphs themselves are in the outputs of the notebooks<br />
  made data_synthesis.ipynb it uses: monte carlo sampling for image generation, gaussian flare rendering, uniform noise generation, and saves both kelvin and normalized version of the images
- in data_synthesis.ipynb there is A.I written diagnostic code, just putting that detail out there <br />
- also added a visual of some sample images created using the seed 67 (in figures)
+ in data_synthesis.ipynb there is a graph comparing median peak brightness for all flare types, as well as how many ring flares are landing on the bright crescent and how many of them are faint to the human eye<br />
+ also added a visual of some sample images created using the seed 67 (also in notebooks)
  
 
 
