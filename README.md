@@ -4,7 +4,7 @@
 **Description**: Compares quantum vs classical autoencoder anomaly detection on black hole accretion disk shadows using EHT M87* data.  
 
 ## Research Question
-**Can a simple quantum program of 8 qubits spot flares from generated black hole M87 images as accurately as a regular AI, while using 5 times fewer adjustable settings?**
+**Can a simple quantum program of 8 qubits spot flares from generated black hole M87 images as accurately as a regular AI, while using vastly fewer adjustable settings?**
 
 ## Status/Changelog <br />
 Week 1-4 - Data synthesis <br />
