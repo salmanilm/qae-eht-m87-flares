@@ -14,6 +14,9 @@ Week 1-4 - Data synthesis <br />
  made data_synthesis.ipynb it uses: monte carlo sampling for image generation, gaussian flare rendering, uniform noise generation, and saves both kelvin and normalized version of the images<br />
  in data_synthesis.ipynb there is a graph comparing median peak brightness for all flare types, as well as how many ring flares are landing on the bright crescent and how many of them are faint to the human eye<br />
  also added a visual of some sample images created using the seed 67 (also in notebooks)
+
+Week 5-7/8 - Designing autoencoder <br />
+ so far deciding how to compress data, also looking into a theoritical hybrid approach to the quantum autoencoder<br />
  
 
 
