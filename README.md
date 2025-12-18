@@ -7,6 +7,8 @@
 **Can a simple quantum program of 8 qubits spot flares from generated black hole M87 images as accurately as a regular AI, while using vastly fewer adjustable settings?**
 
 ## Status/Changelog <br />
+There will be some gaps in the changelogs due to dense academic weeks so I apologize for that, just take the week timeline as how long each section has been worked on respectively <br />
+
 Week 1-4 - Data synthesis <br />
  downloaded FITS file of M 87* from https://cdsarc.cds.unistra.fr/viz-bin/cat/J/A+A/681/A79#/browse <br />
  should be EHT observations taken on 2018 April 21 at band 3 <br />
@@ -15,7 +17,7 @@ Week 1-4 - Data synthesis <br />
  in data_synthesis.ipynb there is a graph comparing median peak brightness for all flare types, as well as how many ring flares are landing on the bright crescent and how many of them are faint to the human eye<br />
  also added a visual of some sample images created using the seed 67 (also in notebooks)
 
-Week 5-7/8 - Designing autoencoder <br />
+Week 5-Present - Designing autoencoder <br />
  so far deciding how to compress data, also looking into a theoritical hybrid approach to the quantum autoencoder<br />
  
 
