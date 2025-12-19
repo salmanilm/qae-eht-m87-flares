@@ -28,7 +28,7 @@ Week 5-Present - Designing autoencoder <br />
 ## Contact
 Salman Ali
 s.alikvoth@gmail.com
-QSYS 2024 Alumni | Gr.12 Student
+QSYS 2024 Alumni | Gr.12 Student @ Queen Elizabeth School (Edmonton, Alberta)
 
 
 ## Citations
