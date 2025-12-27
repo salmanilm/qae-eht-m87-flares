@@ -19,6 +19,7 @@ Week 1-4 - Data synthesis <br />
  <br />
 
 Week 5-6 - Designing autoencoder <br />
+ 85,185 Paramaters <br />
  Compress 16 pixels to 64 features for easier handling, uses normalized images/features <br />
  Uses 4*4 patch input, this is done to avoid padding artifacts. I would have liked to use some more but I was unable to leave my system on for long periods <br />
  Uses MaxPool2d(2) to downsample to 2 pixels, then uses ConvTranspose2d upsampling, kernel_size=4, stride=2, to try and avoid interpolation artifacts that could smooth out flare signatures even further <br />
@@ -26,6 +27,7 @@ Week 5-6 - Designing autoencoder <br />
  <br />
 
 Week 7-9 - Designing hybrid quantum autoencoder <br />
+ ~1,052 Paramters <br />
  12-qubit amplitude encoding for 4*4 patches turned into 4096-dim Hilbert Space <br />
  Ring-entangled variational circuit (3 layers, 108 rotation spaces) <br />
  Hybrid decoder, 12->32->16 with Xavier init <br />
