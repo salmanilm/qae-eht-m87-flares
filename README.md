@@ -11,7 +11,7 @@ There will be some gaps in the changelogs due to dense academic weeks so I apolo
 
 ## Results <br />
 
-All data is synthetic, flares were artificially injected into M87* 2018 images. Real EHT data contains observational noise, calibration artifacts, and lower flare contrast. Consider a drastic performance degradation on real data (i.e 8-30%). <br />
+All data is synthetic, flares were artificially injected into M87* 2018 images. Real EHT data contains observational noise, calibration artifacts, and lower flare contrast. Consider a drastic performance degradation on real data (i.e 20-35%). <br />
 
 Limitations: This is a methodology demonstration. Real EHT data requires: <br />
 GRMHD simulation-based flares (physics-based) <br />
