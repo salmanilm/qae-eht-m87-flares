@@ -6,7 +6,7 @@
     "training_epochs": 20,
     "final_val_loss": 0.000131697507458739,
     "roc_auc": 0.9230428571428572,
-    "f1_score": 0.36363636363636365
+    "f1_score": 0.9171529112461572
   },
   "quantum_model": {
     "architecture": "12-qubit Hybrid Quantum Autoencoder",
@@ -29,4 +29,5 @@
   },
   "hardware": "AMD Ryzen 5500 CPU, 16GB RAM (CPU-only simulation)",
   "github": "github.com/salmanilm/qae-eht-m87-flares"
+
 }
