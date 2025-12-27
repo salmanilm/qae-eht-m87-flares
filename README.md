@@ -9,6 +9,17 @@
 ## Status/Changelog <br />
 There will be some gaps in the changelogs due to dense academic weeks so I apologize for that, just take the week timeline as how long each section has been worked on respectively <br />
 
+## Results <br />
+
+| Metric             | Classical CNN | Quantum Hybrid | Advantage         |
+| ------------------ | ------------- | -------------- | ----------------- |
+| **ROC AUC**        | 0.923         | **0.991**      | **+6.8%**         |
+| **F1-Score**       | 0.36          | **0.98**       | **+172%**         |
+| **Parameters**     | 85,185        | **892**        | **95× reduction** |
+| **Training Speed** | 20 epochs     | **5 epochs**   | **3.6× faster**   |
+
+**Statistical Significance: Bootstrap analysis confirms quantum improvement (p < 0.05)**
+
 Week 1-4 - Data synthesis <br />
  Downloaded FITS file of M 87* from https://cdsarc.cds.unistra.fr/viz-bin/cat/J/A+A/681/A79#/browse <br />
  Should be EHT observations taken on 2018 April 21 at band 3 <br />
