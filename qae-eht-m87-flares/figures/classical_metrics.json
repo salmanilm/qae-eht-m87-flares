@@ -1,0 +1,14 @@
+{
+  "roc_auc": 0.9776857142857143,
+  "optimal_threshold": 0.00013625473366118968,
+  "tpr": 0.915,
+  "fpr": 0.005714285714285714,
+  "precision": 0.978494623655914,
+  "recall": 0.91,
+  "f1_score": 0.9430051813471503,
+  "train_val_split": "1000 normal / 300 normal",
+  "test_split": "700 normal + 200 flare",
+  "total_parameters": 85185,
+  "epochs_trained": 20,
+  "final_val_loss": 0.00013406185898929835
+}
