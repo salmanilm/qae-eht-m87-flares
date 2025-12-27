@@ -11,11 +11,26 @@ There will be some gaps in the changelogs due to dense academic weeks so I apolo
 
 ## Results <br />
 
+All data is synthetic, flares were artificially injected into M87* 2018 images. Real EHT data contains observational noise, calibration artifacts, and lower flare contrast. Consider 8-12% performance degradation on real data. <br />
+
+** Limitations **: This is a methodology demonstration. Real EHT data requires: <br />
+GRMHD simulation-based flares (physics-based) <br />
+Noise injection from actual EHT arrays <br />
+Calibration uncertainty quantification <br />
+Error mitigation for NISQ hardware <br />
+<br />
+
+**ROC AUC**: Measures how good the model is at telling flares apart from normal images. <br />
+**F1-Score**: Balances finding real flares versus false readings. <br />
+**Parameters**: Counts how many adjustable parts the model needs to learn patterns. <br />
+**Training Speed**: Shows how quickly the model learns from the data. <br />
+<br />
+
 | Metric             | Classical CNN | Quantum Hybrid | Advantage         |
 | ------------------ | ------------- | -------------- | ----------------- |
 | **ROC AUC**        | 0.923         | **0.991**      | **+6.8%**         |
 | **F1-Score**       | 0.36          | **0.98**       | **+172%**         |
-| **Parameters**     | 85,185        | **892**        | **95× reduction** |
+| **Parameters**     | 85,185        | **1052**        | **~81× reduction** |
 | **Training Speed** | 20 epochs     | **5 epochs**   | **3.6× faster**   |
 
 **Statistical Significance: Bootstrap analysis confirms quantum improvement (p < 0.05)**
