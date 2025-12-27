@@ -1,0 +1,1202 @@
+[
+  {
+    "path": "patches_4x4/patch_1000.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1001.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1002.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1003.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1004.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1005.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1006.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1007.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1008.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1009.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1010.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1011.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1012.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1013.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1014.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1015.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1016.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1017.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1018.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1019.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1020.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1021.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1022.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1023.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1024.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1025.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1026.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1027.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1028.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1029.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1030.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1031.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1032.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1033.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1034.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1035.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1036.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1037.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1038.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1039.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1040.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1041.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1042.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1043.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1044.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1045.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1046.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1047.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1048.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1049.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1050.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1051.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1052.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1053.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1054.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1055.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1056.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1057.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1058.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1059.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1060.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1061.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1062.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1063.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1064.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1065.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1066.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1067.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1068.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1069.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1070.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1071.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1072.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1073.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1074.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1075.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1076.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1077.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1078.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1079.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1080.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1081.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1082.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1083.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1084.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1085.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1086.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1087.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1088.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1089.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1090.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1091.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1092.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1093.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1094.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1095.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1096.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1097.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1098.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1099.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1100.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1101.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1102.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1103.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1104.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1105.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1106.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1107.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1108.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1109.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1110.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1111.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1112.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1113.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1114.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1115.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1116.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1117.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1118.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1119.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1120.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1121.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1122.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1123.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1124.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1125.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1126.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1127.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1128.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1129.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1130.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1131.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1132.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1133.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1134.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1135.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1136.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1137.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1138.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1139.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1140.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1141.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1142.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1143.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1144.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1145.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1146.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1147.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1148.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1149.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1150.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1151.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1152.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1153.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1154.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1155.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1156.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1157.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1158.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1159.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1160.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1161.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1162.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1163.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1164.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1165.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1166.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1167.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1168.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1169.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1170.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1171.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1172.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1173.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1174.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1175.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1176.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1177.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1178.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1179.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1180.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1181.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1182.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1183.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1184.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1185.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1186.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1187.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1188.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1189.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1190.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1191.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1192.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1193.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1194.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1195.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1196.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1197.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1198.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1199.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1200.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1201.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1202.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1203.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1204.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1205.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1206.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1207.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1208.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1209.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1210.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1211.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1212.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1213.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1214.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1215.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1216.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1217.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1218.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1219.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1220.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1221.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1222.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1223.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1224.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1225.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1226.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1227.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1228.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1229.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1230.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1231.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1232.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1233.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1234.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1235.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1236.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1237.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1238.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1239.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1240.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1241.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1242.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1243.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1244.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1245.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1246.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1247.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1248.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1249.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1250.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1251.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1252.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1253.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1254.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1255.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1256.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1257.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1258.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1259.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1260.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1261.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1262.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1263.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1264.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1265.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1266.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1267.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1268.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1269.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1270.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1271.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1272.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1273.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1274.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1275.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1276.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1277.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1278.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1279.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1280.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1281.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1282.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1283.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1284.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1285.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1286.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1287.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1288.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1289.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1290.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1291.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1292.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1293.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1294.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1295.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1296.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1297.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1298.npy",
+    "label": 0
+  },
+  {
+    "path": "patches_4x4/patch_1299.npy",
+    "label": 0
+  }
+]
