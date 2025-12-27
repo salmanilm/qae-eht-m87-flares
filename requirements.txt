@@ -1,3 +1,10 @@
-# I did most if not all of my coding in the vscode enviroment as a heads-up
-pip install numpy scipy matplotlib astropy scikit-learn torch torchvision pennylane jupyter
-pip freeze > requirements.txt
+| Component   | Minimum                               | Recommended                               |
+| ----------- | ------------------------------------- | ----------------------------------------- |
+| **CPU**     | 4 cores (Intel i5)                    | **6+ cores (Ryzen 5500/i5-8400)**         |
+| **RAM**     | 8GB                                   | **16GB**                                  |
+| **Storage** | 2GB free                              | 5GB free                                  |
+| **OS**      | Windows 10 / Ubuntu 20.04 / macOS 11+ | **Windows 11 / Ubuntu 22.04 / macOS 12+** |
+| **GPU**     | Not required                          | **Not used** (CPU-only project)           |
+
+
+pip install torch==1.13.1+cpu torchvision==0.14.1+cpu -f https://download.pytorch.org/whl/torch_stable.html && pip install pennylane==0.32.0 pennylane-lightning==0.32.0 numpy scikit-learn matplotlib scipy astropy jupyter tqdm
