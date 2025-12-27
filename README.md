@@ -20,6 +20,8 @@ There will be some gaps in the changelogs due to dense academic weeks so I apolo
 
 **Statistical Significance: Bootstrap analysis confirms quantum improvement (p < 0.05)**
 
+
+## Changelog <br />
 Week 1-4 - Data synthesis <br />
  Downloaded FITS file of M 87* from https://cdsarc.cds.unistra.fr/viz-bin/cat/J/A+A/681/A79#/browse <br />
  Should be EHT observations taken on 2018 April 21 at band 3 <br />
