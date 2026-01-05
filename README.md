@@ -18,7 +18,7 @@ GRMHD simulation-based flares (physics-based) <br />
 Noise injection from actual EHT arrays <br />
 Calibration uncertainty quantification <br />
 Error mitigation for NISQ hardware <br />
-Images were also compressed into 4*4 patches which again drastically denotes the credibility of the performance metrics, this was done for performance issues<br />
+Images were also compressed into 4*4 patches which again drastically denotes the credibility of the performance metrics, this was done to remedy performance issues<br />
 <br />
 
 **ROC AUC**: Measures how good the model is at telling flares apart from normal images. <br />
