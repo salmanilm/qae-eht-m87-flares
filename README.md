@@ -32,7 +32,7 @@ Images were also compressed into 4*4 patches which again drastically denotes the
 | **ROC AUC**        | 0.923         | **0.991**      | **+6.8%**         |
 | **F1-Score**       | 0.917          | **0.98**       | **+6%**         |
 | **Parameters**     | 85,185        | **1052**        | **~81× reduction** |
-| **Training Speed** | 20 epochs     | **5 epochs**   | **3.6× faster**   |
+| **Training Speed** | 6-8 epochs     | **5 epochs**   | **1.6× faster**   |
 
 **Statistical Significance: Bootstrap analysis confirms quantum improvement (p < 0.05)**
 
