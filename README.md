@@ -2,6 +2,7 @@
 12 Qubit Quantum Autoencoder for Event Horizon Telescope M87* Flare Detection
 
 **Description**: Compares quantum vs classical autoencoder anomaly detection on black hole accretion disk shadows using EHT M87* data.  
+[Brief 15 Minute Youtube Video] (https://www.youtube.com/watch?v=aeIrwyMpQRI)
 
 ## Research Question
 **Can a simple quantum program of 12 qubits spot flares from generated black hole M87 images as accurately as a regular AI, while using vastly fewer adjustable settings?**
